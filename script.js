@@ -84,5 +84,3 @@ bagIcon.addEventListener('click',()=>{
 
 
 
-
-
