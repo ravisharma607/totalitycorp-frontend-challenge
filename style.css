@@ -227,7 +227,6 @@ nav .desktop-view li a:hover{
     margin-left: 8px;
 }
 /* =------------------ */
-
 .slideshow_box{
     max-width: 95%;
     height: 500px;
@@ -241,7 +240,6 @@ nav .desktop-view li a:hover{
     height: 100%;
     position: absolute;
     transition:all 0.9s ease;
-
 }
 .slide_bottom{
     position:relative;
